@@ -45,8 +45,4 @@ end
     @condition = "new"
  
   end
-
-  
 end
-
-
